@@ -19,7 +19,7 @@ To run the script you need to:
 1. Download and extract the repository files: Use the command "git clone https://github.com/AhmedRabby0919/Solana-Raydium-Sniper-Bot.git" or click the green "Code" button and select "Download ZIP".
 2. Install the Node.js environment on your computer : https://nodejs.org/en
 3. The runtime environment should be a terminal or VSCode. Detailed steps are provided below, please read carefully.
-4. Convert some SOL into WSOL for trading. Note: Even if you only want to run the test for one hour, you still need to retain enough SOL, as gas fees are paid in SOL. For example (1 WSOL) : (10 SOL).
+4. Convert some SOL into WSOL for trading. Note: Even if you only want to run the test for one hour, you still need to retain enough SOL, as gas fees are paid in SOL. For example (1 WSOL) : (10 SOL) : (QUOTE_AMOUNT=0.1).
 
 `Jupiter Wrap` : https://jup.ag/
 
